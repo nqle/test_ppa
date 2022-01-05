@@ -3,7 +3,7 @@ Architecture: amd64
 Version: 0.0.1
 Maintainer: example <example@example.com>
 Depends: libc6
-Filename: ./pool/hello-world_0.0.1-1_amd64.deb
+Filename: pool/hello-world_0.0.1-1_amd64.deb
 Size: 2608
 MD5sum: 5a956c929bec5955dd31ece69cb311d7
 SHA1: 5b60f7a4ecdf65a2a2b1c66405f6c09d55fb907a
