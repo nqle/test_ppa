@@ -5,6 +5,7 @@ How to create APT repository
     * `gpg --armor --export "max.mustermann@gmail.com" > /path/to/my_ppa/KEY.gpg`
 * `apt-ftparchive packages . | tee ./dists/buster/main/binary-amd64/Packages | gzip -k -f > ./dists/buster/main/binary-amd64/Packages.gz`
 * `(cd ./dists/buster/ && apt-ftparchive release . > ./Release)`
+* add required fields to `Release` file: `Codename`, `Suite`, `Architectures`, `Components`
 * `(cd ./dists/buster && gpg --default-key "max.mustermann@gmail.com" --armor --detach-sign --sign --output Release.gpg Release)`
 * `(cd ./dists/buster && gpg --default-key "max.mustermann@gmail.com" --clearsign --output InRelease Release)`
 
