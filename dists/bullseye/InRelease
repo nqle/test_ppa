@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: bullseye
+Components: main
+Date: Wed, 05 Jan 2022 16:56:27 +0000
+Label: test apt repo
+Origin: Quy
+Suite: bullseye
+MD5Sum:
+ 60f4c169d70ee86c79bae909c33e60b0              144 Release
+ 0c704beb85b5889866862aa8c8074326              538 main/binary-amd64/Packages
+ b758ce90e593a54abd8cd0e7f2fde1cb              409 main/binary-amd64/Packages.gz
+SHA1:
+ 774c3866610a09e2ce58d206f097c3e14798fd86              144 Release
+ 4ebbeac58e51522e94a21e6a9632f0a786793360              538 main/binary-amd64/Packages
+ 4097fef155bb40df09b54df004fdb58a1245af34              409 main/binary-amd64/Packages.gz
+SHA256:
+ 4d901360e63c917214d7e6d396a2b14df20120f3e3bb22d1bf1c01e5aa6a8680              144 Release
+ 7fa7687fa94d1069d65655f23c189d2a5f93b46249a775ad058b9f3dce6c5afb              538 main/binary-amd64/Packages
+ 6dd4ae31f67c63da8a562d24bf695e34892f3d5688f5a2aee4577b5787f71942              409 main/binary-amd64/Packages.gz
+SHA512:
+ 525edd35808cb27e0af5f1a7856c18fc1c280e1331acc15d070d9d61386711e88346699d572efa8a098f1e70f3a0f2fb7b04d9d50014d76b6967c29a28e16bca              144 Release
+ 5170787d100e27bdb578deccde1beb97c5cdff3b3450da9dfde28facaf2e702fce2a09fb9669685f75f44abc9667cb4c69113f5730c6750e830b3936eb79cf74              538 main/binary-amd64/Packages
+ c60125a8826fa472fc56da273c1468a4c6f7595e1c5cd47252ce0edf8aee1a6d96d39fbf80881ad4358c13eea670d4c77947d87d9fbeceadafa5bf91f7b44755              409 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJNBAEBCgA3FiEEXzjpKf4BilfN9/WFCExHBFdqPHkFAmHVzb0ZHG1heC5tdXN0
+ZXJtYW5uQGdtYWlsLmNvbQAKCRAITEcEV2o8easDEAC4USuOx3SCIjH0oGobcoiZ
+Ezz9EJ1IqQacq1EhvfrBTrpZeFGFICQdzpl0jTU/XK9gdcnDwM1YNQLxnAH93chj
+GWA2ogpmNMkEYGjMWUUTdBC2Z7vpb8Avt+O2br5c8/gMEttLi5e5KQOGIjR+iWgB
+/lICsWA+RxoxmxqJdy0eU9anMivUZykNSLXHGBQSpZpDakwCpA4uoO/pSj8azyR9
+BNw8gsUy44MHfMg+RYWn8XeMbmymxskikihRfqk9bIxn1GvNrVstki2qeAIVVob6
+NwZLaQxTZDQQVrWGAzC3IWbh5nGdTRkfpJj33czfAkQWI5Qa7ugCC4fBc+KQQd+b
+qk+8DLKcbg1iHXm6PbEOFfR66Eqfz3UB6xFYk9v0WZrvkRd09bt9TGepc0s9ggeV
+BxsPqdBsRwZ8+3jsb/qtfEAH+wRnZc0OBpa05VWQ7c9xNKAvCyconLWKBLNyI6ho
+6mzDMhJENp9oncjAcSDrgMgZnLNulFrlx5iik1E/F+pCxzpKkceSFTSv1fi7mol4
+nJi1Ow4+qbxz4jHFEmRw/3Ikco1Ky6T2p+CWx7ozPYF/PQz0rPI9dEVjGpH9yz9b
+hNpZ4sM6hXe2tFUlDDCf8gUqKuZcijMbY3TEP9UFik8N1lCd9HIoYZvhsTlzPWVU
+9uClI9IntyrnY731d082HQ==
+=yZoS
+-----END PGP SIGNATURE-----
