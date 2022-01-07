@@ -11,3 +11,7 @@ How to create APT repository
 
 On client side:
 * `curl --silent --compressed "https://nqle.github.io/test_ppa/KEY.gpg" | sudo gpg --dearmor -o /usr/share/keyrings/test-archive-keyring.gpg`
+
+# Misc:
+* `gpg --armor --export-secret-key 4FD36A1C > private.key`
+* `gpg --armor --export "max.mustermann@gmail.com" > /tmp/home/dockerexchange/pub.key`
