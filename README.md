@@ -2,7 +2,7 @@ How to create APT repository
 * Put .deb file somewhere
 * Create an ascii armored gpg key
     * `gpg --full-gen-key`
-    * `gpg --armor --export "max.mustermann@gmail.com" > /path/to/my_ppa/KEY.gpg`
+    * `gpg --armor --export "max.mustermann@gmail.com" > ./KEY.gpg`
 * `mkdir -p ./dists/bullseye/main/binary-amd64`
 * `apt-ftparchive generate ./apt-ftparchive.conf`
 * `apt-ftparchive release -c ./apt-ftparchive.conf ./dists/bullseye/ > ./dists/bullseye/Release`
